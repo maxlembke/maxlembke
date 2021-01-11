@@ -7,8 +7,8 @@ I love leveraging interdisciplinary knowledge and hyper-international experience
 Currently pursuing a Masters of Business Analytics which brought me here! 
 
 ## Connect with me 🌍: 
-LinkedIn: maxlembke.com </a>
-Xing: maxlembke.de 
+- LinkedIn: maxlembke.com 
+- Xing: maxlembke.de 
 
 <!--
 **maxlembke/maxlembke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
