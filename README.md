@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I'm Max 👋
+
+I am a humanities & business graduate passionate about compliance, quantitative research and simulations. 
+
+I love leveraging interdisciplinary knowledge and hyper-international experiences to identify opportunities and develop effective strategies through systematically countering risks. Especially if it involves data!
+
+Currently pursuing a Masters of Business Analytics which brought me here! 
+
+## Connect with me 🌍: 
+LinkedIn: maxlembke.com
+Xing: maxlembke.de 
 
 <!--
 **maxlembke/maxlembke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
