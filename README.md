@@ -7,7 +7,7 @@ I love leveraging interdisciplinary knowledge and hyper-international experience
 Currently pursuing a Masters of Business Analytics which brought me here! 
 
 ## Connect with me 🌍: 
-LinkedIn: maxlembke.com
+LinkedIn: maxlembke.com </a>
 Xing: maxlembke.de 
 
 <!--
